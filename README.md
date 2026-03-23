@@ -1,10 +1,10 @@
-# 🍌 Pipeline de Detecção e Segmentação (YOLO)
+# Pipeline de Detecção e Segmentação (YOLO)
 
 pip install ultralytics
 
 Este trecho de código automatiza o processamento de imagens utilizando modelos de visão computacional. Ele permite filtrar classes específicas, aplicar segmentação de instância e rastrear objetos.
 
-## 🚀 Exemplo de Uso
+## Exemplo de Uso
 
 Utilize a função `run_pipeline` para processar arquivos individuais no ambiente do Google Colab ou localmente:
 
